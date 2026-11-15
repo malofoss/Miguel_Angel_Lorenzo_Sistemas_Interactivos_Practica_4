@@ -1,0 +1,122 @@
+[
+  {
+    "id": "food_01",
+    "category": "food",
+    "image": "food/food_01.jpg",
+    "caption": "A meat barbecue"
+  },
+  {
+    "id": "food_02",
+    "category": "food",
+    "image": "food/food_02.jpg",
+    "caption": "A Spanish paella"
+  },
+  {
+    "id": "food_03",
+    "category": "food",
+    "image": "food/food_03.jpg",
+    "caption": "A cheesecake"
+  },
+  {
+    "id": "food_04",
+    "category": "food",
+    "image": "food/food_04.jpg",
+    "caption": "A sandwich with potato chips"
+  },
+  {
+    "id": "food_05",
+    "category": "food",
+    "image": "food/food_05.jpg",
+    "caption": "A varied breakfast"
+  },
+  {
+    "id": "car_01",
+    "category": "cars",
+    "image": "cars/car_01.jpg",
+    "caption": "A purple Nissan"
+  },
+  {
+    "id": "car_02",
+    "category": "cars",
+    "image": "cars/car_02.jpg",
+    "caption": "An old Mercedes"
+  },
+  {
+    "id": "car_03",
+    "category": "cars",
+    "image": "cars/car_03.jpg",
+    "caption": "A parked white Honda"
+  },
+  {
+    "id": "car_04",
+    "category": "cars",
+    "image": "cars/car_04.jpg",
+    "caption": "A white Porsche with a spoiler"
+  },
+  {
+    "id": "car_05",
+    "category": "cars",
+    "image": "cars/car_05.jpg",
+    "caption": "An orange Supra with a spoiler"
+  },
+  {
+    "id": "moto_01",
+    "category": "motorcycles",
+    "image": "motorcycles/moto_01.jpg",
+    "caption": "Two motorcycles with the sea in the background"
+  },
+  {
+    "id": "moto_02",
+    "category": "motorcycles",
+    "image": "motorcycles/moto_02.jpg",
+    "caption": "A Kawasaki motorcycle on the beach"
+  },
+  {
+    "id": "moto_03",
+    "category": "motorcycles",
+    "image": "motorcycles/moto_03.jpg",
+    "caption": "A Kawasaki motorcycle at sunset"
+  },
+  {
+    "id": "moto_04",
+    "category": "motorcycles",
+    "image": "motorcycles/moto_04.jpg",
+    "caption": "A Kawasaki motorcycle with a rider"
+  },
+  {
+    "id": "moto_05",
+    "category": "motorcycles",
+    "image": "motorcycles/moto_05.jpg",
+    "caption": "A Yamaha motorcycle in a garage"
+  },
+  {
+    "id": "dog_01",
+    "category": "dog",
+    "image": "dog/dog_01.jpg",
+    "caption": "A dog in a car"
+  },
+  {
+    "id": "dog_02",
+    "category": "dog",
+    "image": "dog/dog_02.jpg",
+    "caption": "A dog on a bed"
+  },
+  {
+    "id": "dog_03",
+    "category": "dog",
+    "image": "dog/dog_03.jpg",
+    "caption": "A dog in the sun on the floor"
+  },
+  {
+    "id": "dog_04",
+    "category": "dog",
+    "image": "dog/dog_04.jpg",
+    "caption": "A dog on a towel"
+  },
+  {
+    "id": "dog_05",
+    "category": "dog",
+    "image": "dog/dog_05.jpg",
+    "caption": "A dog on a boat"
+  }
+]
